@@ -4,7 +4,7 @@
 ### Latihan 1 
 Ini adalah langkah - langkah untuk membuat program pada Python
 1) Install Python pada pc/laptop kalian. website nya https://www.python.org/ 
-![Gambar1](D:\File tugas\Bahasa Pemrograman\Praktek\latihan python\lab2py\screenshot latihan python/ss aplikasi python dan website.png)
+<img width="960" alt="ss aplikasi dan website python" src="https://user-images.githubusercontent.com/116411792/198681557-63de67d5-87e9-4f5d-b96b-0390547603f2.png"> . 
 Pastikan setelah install, centang 'add python 3.x to path agar bisa dipanggil dari CMD
 
 2) Jalankan Python melalui CMD untuk menampilkan tulisan dan angka pada Python.
